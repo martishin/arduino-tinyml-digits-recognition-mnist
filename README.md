@@ -29,4 +29,4 @@ Predictions:
   9: 0.00391
 ```
 
-The number after each digit is its score (confidence)
+In this case, digit 7 was shown on the phone to the connected camera, the number after each digit is its score (confidence).
