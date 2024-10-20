@@ -1,5 +1,5 @@
 # Arduino TinyML Digits Recognition
-Arduino TinyML project that uses a model to recognize digits, the model was trained using MNIST dataset, [link to the project](https://studio.edgeimpulse.com/studio/537816).
+Arduino TinyML project that uses a ML model to recognize digits, the model was trained using the MNIST dataset, [link to the project](https://studio.edgeimpulse.com/studio/537816).
 
 ## Tested Devices
 
