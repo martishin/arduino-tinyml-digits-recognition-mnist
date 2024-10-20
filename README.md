@@ -1,5 +1,6 @@
 # Arduino TinyML Digits Recognition
 Arduino TinyML project that uses a machine learning model to recognize digits in the camera feed, the model was trained using the MNIST dataset.   
+
 [Link to the Edge Impulse project](https://studio.edgeimpulse.com/studio/537816)
 
 ## Tested Devices
