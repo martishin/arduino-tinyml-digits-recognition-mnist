@@ -12,7 +12,7 @@ The project has been tested on the following devices:
 - [Arduino Nano 33 BLE Sense](https://store.arduino.cc/usa/nano-33-ble-sense-with-headers) with [OV7675 camera](https://store.arduino.cc/en-de/products/arducam-camera-module)
 
 ## How to Run
-Add the project to [Arduino IDE](https://www.arduino.cc/en/software/) using `Sketch -> Include Library -> Add .ZIP Library...`.  
+Download the project in ZIP format and add it to [Arduino IDE](https://www.arduino.cc/en/software/) using `Sketch -> Include Library -> Add .ZIP Library...`.  
 Once the library has been added, go to `File -> Examples`. You should see an entry within the list named `martishin-mnist_inferencing`. Select it and click `nano_ble33_sense -> nano_ble33_sense_camera` to load the project.
 
 Use the Arduino IDE to build and upload the project. Once it is running, you can see inference results using `Serial Monitor`:
