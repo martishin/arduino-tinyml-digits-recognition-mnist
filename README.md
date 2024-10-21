@@ -3,6 +3,7 @@ Arduino TinyML project that uses a machine learning model to recognize digits in
 
 [Link to the Edge Impulse project](https://studio.edgeimpulse.com/studio/537816)
 
+## Demo
 [![Demo](https://img.youtube.com/vi/SAx83gpNJ7k/0.jpg)](https://www.youtube.com/watch?v=SAx83gpNJ7k)
 
 ## Tested Devices
